@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: ##e080b0;
+  border: 1px solid ##e080b0;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -21,7 +21,7 @@
 }
 
 #mainNav .navbar-brand {
-  color: #161616;
+  color: ##e080b0;
   font-weight: 700;
   padding: .9rem 0;
 }
@@ -72,15 +72,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: ##e080b0;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: ##e080b0;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid ##e080b0;
   }
 }
 
@@ -90,7 +90,7 @@
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/manchester-buildings-example.jpg");
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/new-background-compressed.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -103,7 +103,7 @@
   font-weight: 400;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
-  background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+  background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgb(255 255 255 / 22%));
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
@@ -147,7 +147,7 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: ##e080b0;
 }
 
 .btn-primary:hover {
@@ -183,7 +183,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid ##e080b0;
   }
 }
 
@@ -197,7 +197,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: ##e080b0;
     border-width: .25rem;
     width: 30%;
   }
@@ -229,7 +229,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid ##e080b0;
 }
 
 .contact-section .card h4 {
@@ -240,7 +240,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: ##e080b0;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -268,12 +268,12 @@
 }
 
 body {
-  font-family: 'Nunito';
+  font-family: 'Quicksand';
   letter-spacing: 0.0625em;
 }
 
 a {
-  color: #64a19d;
+  color: #e080b0;
 }
 
 a:focus, a:hover {
@@ -286,11 +286,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: ##e080b0 !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: ##e080b0 !important;
 }
 
 footer {
