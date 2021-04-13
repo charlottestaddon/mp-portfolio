@@ -4,6 +4,12 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
 
+.subtitle-text {
+  color: #e080b0 !important;
+}
+
+
+
 #mainNav {
   min-height: 56px;
   background-color: #fff;
@@ -12,7 +18,7 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: ##e080b0;
+  color: #e080b0;
   border: 1px solid ##e080b0;
 }
 
@@ -21,7 +27,7 @@
 }
 
 #mainNav .navbar-brand {
-  color: ##e080b0;
+  color: #e080b0;
   font-weight: 700;
   padding: .9rem 0;
 }
@@ -47,12 +53,12 @@
   }
   #mainNav .navbar-brand {
     padding: .5rem 0;
-    color: rgba(255, 255, 255, 0.5);
+    color: #e080b0;
   }
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: #e080b0;
   }
   #mainNav .nav-link:hover {
     color: rgba(255, 255, 255, 0.75);
